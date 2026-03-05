@@ -5,7 +5,7 @@ This repo has some basic function implementation and RISC-V implementation using
 Also it has the solution for the famous bomb lab (by CMU) for Computer Architecture.     
 You can test the RISC-V implementation by compiling as ./risc-v -c and executing by ./risc-v -r.     
 
-The materials and labs are from SNU Computer Architecture (2025 Spring).     
+The materials and labs are from Computer Architecture (SNU, 2025 Spring).     
 The rough explanations for the labs are provided below.
 
 ## Lab explanation
